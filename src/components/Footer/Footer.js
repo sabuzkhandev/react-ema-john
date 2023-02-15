@@ -10,7 +10,7 @@ const Footer = () => {
                 <img src={FooterLogo} alt='no images'></img>
             </div>
             <div className='copy-right'>
-                <small>&copy; 2023 <a href='#' style={{color:'orange'}}>Ema-John</a> Ecommerce</small>
+                <small>&copy; 2023 <a href='/home' style={{color:'orange'}}>Ema-John</a> Ecommerce</small>
             </div>
             <div className='bank'>
                 <img src={myImage} alt='no images'></img>
