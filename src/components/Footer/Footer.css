@@ -1,0 +1,22 @@
+.footer {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 100px;
+  background-color: #e4e4e4;
+}
+
+.footer-logo > img {
+  height: 30px;
+  width: 30px;
+}
+
+.copy-right {
+  font-size: 12px;
+}
+
+.bank > img {
+  height: 40px;
+  width: 100%;
+}

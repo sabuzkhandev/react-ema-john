@@ -1,0 +1,39 @@
+.single-product {
+  border-radius: 10px;
+  border: 1px solid #eeeeee;
+  padding: 10px;
+  height: 450px;
+}
+
+.product-img > img {
+  height: 260px;
+  width: 260px;
+  border-radius: 10px;
+}
+
+.product-single > p {
+  text-align: start;
+  margin: 5px 5px;
+}
+
+.rating {
+  text-align: start;
+  color: orange;
+}
+.button-shop {
+  font-size: 12px;
+  font-weight: 600;
+  width: 100%;
+  padding: 8px;
+  border: none;
+  background-color: orange;
+  border-radius: 5px;
+  margin-bottom: 0px;
+  cursor: pointer;
+}
+.button-shop > img {
+  height: 25px;
+  width: 20px;
+  margin-bottom: -7px;
+  margin-right: 5px;
+}

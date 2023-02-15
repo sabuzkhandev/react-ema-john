@@ -1,0 +1,13 @@
+.shop {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  padding: 0px 100px 50px 100px;
+}
+
+.about-product {
+  text-align: start;
+  border-top: 1px solid #eeeeee;
+  border-bottom: 1px solid #eeeeee;
+  padding: 10px 100px;
+}
